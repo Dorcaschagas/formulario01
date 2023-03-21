@@ -1,4 +1,4 @@
 # formulario01
-primeiro formulario
 
-para ver o site click aqui 👉  https://dorcaschagas.github.io/formulario01/
+click aqui para acessar o site. 👇
+https://dorcaschagas.github.io/formulario01/
