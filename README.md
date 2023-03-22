@@ -1,4 +1,2 @@
-# formulario01
-
-click aqui para acessar o site. 👇
-https://dorcaschagas.github.io/formulario01/
+# formulario01 clique aqui 👇
+# https://dorcaschagas.github.io/formulario01/
